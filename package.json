@@ -1,12 +1,30 @@
 {
   "name": "my-open-source-project",
   "version": "1.0.0",
-  "description": "A simple project for OpenAI Codex application",
+  "description": "A lightweight JavaScript utility library for string processing and date formatting",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
   },
-  "keywords": ["example"],
-  "author": "",
-  "license": "MIT"
+  "keywords": [
+    "utils",
+    "string",
+    "date",
+    "utilities",
+    "helper"
+  ],
+  "author": "837026972-rgb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/837026972-rgb/my-open-project"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/837026972-rgb/my-open-project/issues"
+  },
+  "homepage": "https://github.com/837026972-rgb/my-open-project#readme"
 }
