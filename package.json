@@ -1,0 +1,12 @@
+{
+  "name": "my-open-source-project",
+  "version": "1.0.0",
+  "description": "A simple project for OpenAI Codex application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["example"],
+  "author": "",
+  "license": "MIT"
+}
